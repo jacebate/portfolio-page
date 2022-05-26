@@ -1,0 +1,21 @@
+img{
+    width:200px;
+    height: 200px;
+    background-color: whitesmoke;
+    border:10px solid red;
+    border-radius:30px 0 0 80px;
+    border-style: groove;
+    border-right: 10px dotted blue;
+    border-bottom: red dashed 20px;
+}
+h3{
+    background-color: greenyellow;
+
+}
+p{
+    /* width:100px; */
+    border:1px solid red;
+    margin-left: 100px;
+    margin-right:100px;
+
+}
